@@ -1,0 +1,56 @@
+.center-text {
+    display: flex;
+    justify-content: center;
+}
+
+.head-background {
+    background-color: #021526;
+}
+
+.body-background {
+    background-color: #E2E2B6;
+}
+
+.icon-color {
+    color: #009FBD;
+}
+
+.icon-color-2 {
+    color: goldenrod;
+}
+
+.footer-background {
+    background-color: #6EACDA;
+}
+
+.white-background {
+    background-color: white;
+}
+
+.center-align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hack {
+    color: #E2E2B6;
+}
+
+.curve-border {
+    border-radius: 20px;
+}
+
+.img-background {
+    background-image: url(./hero\ 1.jpg);
+    width: 1400px;
+    height: 340px;
+}
+
+.coming-soon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    height: 500px;
+}
