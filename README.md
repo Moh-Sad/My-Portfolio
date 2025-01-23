@@ -29,8 +29,7 @@ Welcome to my first portfolio project, created as part of the Angela Yu Web Deve
 
 ## How to View the Portfolio
 
-You can view the live project here: [My Portfolio](#)  
-*(Replace `#` with the link to your live portfolio, e.g., the hosting platform link.)*
+You can view the live project here: [My Portfolio](https://github.com/moh-sad/My-Portfolio)  
 
 ---
 
